@@ -1,0 +1,39 @@
+a{
+    color: #e5c504;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 18pt;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+}
+h1{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+}
+header{
+    background-image: url("../images/friends.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+nav{
+    align-content: center;
+    background-color: blueviolet;
+    display: flex;
+    height: 50px;
+    justify-content: space-evenly;
+}
+p{
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+}
+section{
+    background-color: blueviolet;
+    height: 200px;
+}
